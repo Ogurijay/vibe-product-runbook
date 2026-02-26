@@ -1,0 +1,13 @@
+﻿{
+  "project_name": "",
+  "current_goal": "",
+  "phase": "planning",
+  "progress": 0,
+  "completed": [],
+  "blockers": [],
+  "next_steps": ["项目启动：先确认本次目标"],
+  "active_tools": ["github-cli", "mcp", "skills"],
+  "accepted_skills": ["find-skills", "vibe-product-runbook"],
+  "notes": "",
+  "updated_at": ""
+}
